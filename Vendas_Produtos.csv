@@ -1,0 +1,28 @@
+;ID;Filial;Cidade;Produtos;Preço Unitario;Quantidade;Total;Data;Hora;Forma de Pagamento;custo das mercadorias;Avaliação
+0;0001;A;Praia Grande;Saúde e Beleza;42;7;550;1/5/2024;13:08;Dinheiro;522,83;9,1
+1;0001;A;Santos;Eletronicos;410;6;548;3/5/2024;13:08;Credito;522,83;8
+2;0001;A;São Vicente;Esportes;432;24;54;2/6/2024;13:08;Debito;522,83;6
+3;0001;A;São Vicente;Eletronicos;542;5;410;3/6/2024;13:08;Credito;522,83;5
+4;0001;A;Santos;Saúde e Beleza;55;6;420;1/5/2024;13:08;Dinheiro;522,83;8
+5;0001;A;Praia Grande;Esportes;110;3;454;2/10/2024;13:08;Debito;522,83;7
+6;0001;A;Santos;Saúde e Beleza;74,69;6;786;2/2/2024;13:08;Dinheiro;522,83;7
+7;0001;A;Praia Grande;Esportes;74,69;4;541;3/3/2024;13:08;Debito;522,83;4
+8;0001;A;Santos;Saúde e Beleza;110;23;453;2/5/2024;13:08;Credito;522,83;10
+9;0001;A;São Vicente;Esportes;124;4;452;2/3/2024;13:08;Debito;522,83;6
+10;0001;A;Santos;Automotivo;35;5;548;3/4/2024;13:08;Credito;522,83;5
+10;0001;A;Santos;Esportes;45;4;548,;1/5/2024;13:08;Credito;522,83;9
+10;0001;A;Santos;Saúde e Beleza;74;7;423;3/8/2024;13:08;Credito;522,83;7
+10;0001;A;Praia Grande;Saúde e Beleza;71;4;420;1/8/2024;13:08;Credito;522,83;5
+10;0001;A;Santos;Automotivo;42;5;456;3/4/2024;13:08;Debito;522,83;6
+10;0001;A;Santos;Eletronicos;78;8;140;3/12/2024;13:08;Dinheiro;522,83;3
+10;0001;A;Praia Grande;Esportes;45;4;421;1/5/2024;13:08;Dinheiro;522,83;5
+10;0001;A;São Vicente;Automotivo;74;7;421;2/5/2024;13:08;Credito;522,83;7
+10;0001;A;Santos;Eletronicos;42;7;456;2/5/2024;13:08;Credito;522,83;8
+10;0001;A;Praia Grande;Automotivo;42;3;542;3/5/2024;13:08;Debito;522,83;9
+10;0001;A;Santos;Saúde e Beleza;45;5;468;1/5/2024;13:08;Dinheiro;522,83;5
+10;0001;A;Praia Grande;Automotivo;42;7;345;3/5/2024;13:08;Credito;522,83;5
+10;0001;A;Santos;Esportes;40;5;754;1/5/2024;13:08;Debito;522,83;7
+10;0001;A;Praia Grande;Eletronicos;53;7;786;1/5/2024;13:08;Credito;522,83;8
+10;0001;A;São Vicente;Automotivo;43;6;441;2/5/2024;13:08;Debito;522,83;7
+10;0001;A;Santos;Esportes;41;5;453;3/5/2024;13:08;Debito;522,83;8
+10;0001;A;Santos;Saúde e Beleza;13;2;352;2/5/2024;13:08;Dinheiro;522,83;9
